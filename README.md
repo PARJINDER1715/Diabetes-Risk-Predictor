@@ -1,5 +1,5 @@
 # Diabetes-Risk-Predictor
-A Streamlit web app that predicts the likelihood of diabetes in a patient using key health indicators. Built with Python, Scikit-learn, and Streamlit. Includes trained model and scaler files.  👨‍💻 Developed by Parjinder Singh
+A Streamlit web app that predicts the likelihood of diabetes in a patient using key health indicators. Built with Python, Scikit-learn, and Streamlit. Includes trained model and scaler files. 
 
 # 🩺 Diabetes Risk Predictor
 
