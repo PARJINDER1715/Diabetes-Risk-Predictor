@@ -27,7 +27,7 @@ For suggestions or questions, feel free to reach out.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/diabetes-predictor-app.git
+   git clone https://github.com/PARJINDER1715/diabetes-predictor-app.git
    cd diabetes-predictor-app
 2. To Run
    streamlit run app.py
