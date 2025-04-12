@@ -18,6 +18,11 @@ This is a simple yet powerful web app built using **Streamlit** to predict wheth
 - Data Preprocessing: StandardScaler
 - Evaluation: Accuracy, Confusion Matrix
 
+## 📬 Contact
+For suggestions or questions, feel free to reach out.
+- Project developed by **Parjinder Singh**  
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/parjindersingh/)
+
 ## 🚀 Run the App Locally
 
 1. Clone the repository:
